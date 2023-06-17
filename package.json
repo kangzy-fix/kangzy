@@ -22,7 +22,7 @@
 		"react-modal": "^3.16.1",
 		"react-native-simple-toast": "^2.0.1",
 		"react-router-dom": "^6.12.1",
-		"react-scripts": "4.0.3",
+		"react-scripts": "^5.0.1",
 		"react-scroll": "^1.8.9",
 		"react-spinners": "^0.13.8",
 		"react-toast-notifications": "^2.5.1",
@@ -32,7 +32,7 @@
 		"web-vitals": "^1.0.1"
 	},
 	"scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
+		"start": "react-scripts --openssl-legacy-provider start",
 		"build": "yarn run react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
