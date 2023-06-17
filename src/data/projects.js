@@ -25,7 +25,7 @@ export const projectsData = [
   {
     id: 2,
     title: 'Realtor Clone App',
-    category: 'Mobile Application',
+    category: 'Design Web Application',
     img: MobileImage2,
     liveLink: 'https://realtor-app-clone.vercel.app/',
     style: {
@@ -58,7 +58,7 @@ export const projectsData = [
   {
     id: 5,
     title: 'Car enthusiast Visualizer',
-    category: 'Mobile Application',
+    category: 'Android/IOS Application',
     img: MobileImage1,
     liveLink: 'https://car-enthusiasts-visualizer.netlify.app/',
     style: {
@@ -69,7 +69,7 @@ export const projectsData = [
   {
     id: 6,
     title: 'Fix Moti`s',
-    category: 'Web Application',
+    category: 'Website',
     img: WebImage1,
     liveLink: 'https://fix-motis-gallery.vercel.app/',
     style: {

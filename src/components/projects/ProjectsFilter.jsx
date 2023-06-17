@@ -1,9 +1,9 @@
 import React from "react";
 const selectOptions = [
 	'Web Application',
-	'Mobile Application',
-	'UI/UX Design',
-	'Branding',
+	'Android/IOS Application',
+	'Design Web Application',
+	'Website',
 ];
 
 const ProjectsFilter = ({ setSelectProject }) => {

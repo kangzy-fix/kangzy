@@ -9,9 +9,9 @@ import $ from 'jquery';
 
 const selectOptions = [
   'Web Application',
-  'Mobile Application',
-  'UI/UX Design',
-  'Branding',
+	'Android/IOS Application',
+	'Design Web Application',
+	'Website',
 ];
 
 const HireMeModal = ({ onClose }) => {
