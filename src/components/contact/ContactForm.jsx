@@ -71,7 +71,11 @@ const ContactForm = () => {
       },
       error: function (error) {
         console.error('Error:', error);
-        toast.error('An error occurred.', {
+        toast.error(
+          <>
+            Error! <u>{name}</u> had an issue. Contact me at iankangacha@gmail.com.
+          </>,
+          {
           position: toast.POSITION.TOP_CENTER,
           theme: "dark"
         });
